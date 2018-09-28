@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: Coaxial
+  description: Opinionated role to configure a machine for my daily use.
+  company: 64b.it
+  role_name: battle-ready
+  license: MIT
+  min_ansible_version: 2.6
+  platforms:
+    - name: ubuntu
+      versions:
+        - bionic
+        - buster
+  galaxy_tags:
+    - ''
+
+  dependencies: []
